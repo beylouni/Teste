@@ -3,7 +3,7 @@ Repositório de teste
 
 ## Seção 2
 
-Esta é uma seção nova
+Esta é uma seção novae
 README.md Novo texto
 
 Teste
